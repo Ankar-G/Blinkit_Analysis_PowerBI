@@ -17,7 +17,7 @@ This Power BI dashboard project analyzes sales, ratings, and outlet performance 
 
 ## 📁 Files Included:
 - `Blinkit_Sales_Analysis.pbix`: Power BI project file
-- `Dashboard_Screenshot.png`: ![Dashboard Screenshot](https://github.com/Ankar-G/Blinkit_Analysis_PowerBI/blob/main/Screenshot%202025-06-09%20114936.png.png)
+- `Dashboard_Screenshot.png`: ![Dashboard Screenshot](https://github.com/Ankar-G/Blinkit_Analysis_PowerBI/blob/main/Screenshot%202025-06-09%20114936.png)
 - `README.md`: Project details and insights
 
 ---
